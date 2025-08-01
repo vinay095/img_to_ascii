@@ -1,8 +1,6 @@
 # img_to_ascii
 convert image to ascii
 
-Installation
-Make sure you have Python 3 installed.
 
 Install Pillow:
 
